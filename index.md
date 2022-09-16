@@ -41,7 +41,7 @@ Submitted papers must be original, and not submitted concurrently to a journal o
 
 
 ## Organizers
- - [Lukas Chrpa](https://ktiml.mff.cuni.cz/~chrpa/)
+ - [Lukas Chrpa](https://sites.google.com/view/lukaschrpa/home)
  - [Federico Cerutti](https://federico-cerutti.unibs.it/)
  - [Mauro Vallati](https://maurovallati.blogspot.com/)
 
